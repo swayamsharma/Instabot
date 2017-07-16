@@ -2,7 +2,7 @@ import requests, urllib
 from termcolor import colored
 import matplotlib.pyplot as r
 
-APP_ACCESS_TOKEN = "2308846434.85b3cf8.a27a2a6bf8d44e3da506cb87d2552b90"
+APP_ACCESS_TOKEN = ""
 BASE_URL = 'https://api.instagram.com/v1/'
 
 
